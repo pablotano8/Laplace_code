@@ -1,6 +1,6 @@
 # Laplace_code
 
-The main file is the Laplace_code jupyter notebook. It has the code to recreate Figures 3,5 and A.1 from the paper, explained with comments in the notebook. It also recreates the example used in the video presentation of the paper.
+The main file is the Laplace_code jupyter notebook. It has the code to recreate Figures 3, 5 and A.1 from the paper, explained with comments in the notebook. It also recreates the example used in the video presentation of the paper.
 
 In all cases, the code consists of three steps: 
 
